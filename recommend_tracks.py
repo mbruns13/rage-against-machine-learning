@@ -6,10 +6,13 @@ import time
 import numpy as np
 from sklearn.preprocessing import StandardScaler, MinMaxScaler, Normalizer
 from sklearn.metrics.pairwise import cosine_similarity
+import streamlit as as
 
 #import spotify keys
 # from config import client_id
 # from config import client_secret
+client_id = st.secrets["client_id"]
+client_secret = st.secrets["client_secret"]
 
 # create access token for spotify api
 def createToken():
