@@ -3,7 +3,7 @@ from streamlit_option_menu import option_menu
 import streamlit.components.v1 as components
 from  PIL import Image
 import pandas as pd
-from recommend_tracks import createToken, searchTrack, recommendSongs
+from recommend_tracks import searchTrack, recommendSongs
 
 st.set_page_config(layout="wide")
 client_id = st.secrets["client_id"]
