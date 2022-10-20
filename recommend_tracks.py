@@ -8,8 +8,8 @@ from sklearn.preprocessing import StandardScaler, MinMaxScaler, Normalizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 #import spotify keys
-from config import client_id
-from config import client_secret
+# from config import client_id
+# from config import client_secret
 
 # create access token for spotify api
 def createToken():
