@@ -22,8 +22,8 @@ Definition of each feature:
 - Valence: A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
 - Tempo: The overall estimated tempo of a track in beats per minute (BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration.
 
-### Details About The App:
-We decided to use Streamlit to host and deploy our Music Diversifier. We sought to design an app that was both easy to use and provided enough information to be interesting and engaging. The app can be accessed [here](https://mbruns13-rage-against-machine-learning-app-tfwxnw.streamlitapp.com/). 
+### Details About the App:
+We decided to use Streamlit to host and deploy our Music Diversifier. We sought to design an app that was both easy to use and provided enough information to be interesting and engaging. **The app can be accessed [here](https://mbruns13-rage-against-machine-learning-app-tfwxnw.streamlitapp.com/).** 
 (Screenshots can also be found at the bottom of this report.)
 
 ### Limitations and Future Directions:
