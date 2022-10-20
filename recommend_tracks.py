@@ -6,7 +6,7 @@ import time
 import numpy as np
 from sklearn.preprocessing import StandardScaler, MinMaxScaler, Normalizer
 from sklearn.metrics.pairwise import cosine_similarity
-import streamlit as as
+import streamlit as st
 
 #import spotify keys
 # from config import client_id
