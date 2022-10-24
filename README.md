@@ -23,7 +23,7 @@ Definition of each feature:
 - Tempo: The overall estimated tempo of a track in beats per minute (BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration.
 
 ### Details About the App:
-We decided to use Streamlit to host and deploy our Music Diversifier. We sought to design an app that was both easy to use and provided enough information to be interesting and engaging. **The app can be accessed [here](https://mbruns13-rage-against-machine-learning-app-tfwxnw.streamlitapp.com/).** 
+We decided to use Streamlit to host and deploy our Music Diversifier. We sought to design an app that was both easy to use and provided enough information to be interesting and engaging. **The app can be accessed [here](https://mbruns13-music.streamlitapp.com/).** 
 (Screenshots can also be found at the bottom of this report.)
 
 ### Limitations and Future Directions:
